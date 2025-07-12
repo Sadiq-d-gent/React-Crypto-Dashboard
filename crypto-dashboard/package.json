@@ -20,7 +20,7 @@
     "chart.js": "^4.3.0",
     "dayjs": "^1.11.9",
     "embla-carousel-autoplay": "^8.0.0-rc07",
-    "embla-carousel-react": "^8.0.0-rc07",
+    "embla-carousel-react": "^7.1.0",
     "flowbite": "^1.6.6",
     "flowbite-react": "^0.4.9",
     "mantine-datatable": "^2.6.4",
