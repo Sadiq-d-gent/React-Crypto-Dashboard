@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@mantine/carousel": "^6.0.16",
+    "@mantine/core": "^6.0.16",
+    "@mantine/dates": "^6.0.16",
+    "mantine-datatable": "^8.1.2"
+  }
+}
